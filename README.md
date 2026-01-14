@@ -24,5 +24,7 @@
 
 ![alt text](image-1.png)
 
+### Next steps and recommendations
+One recommendation would be analyze the entire data to present the highest changces of acceptance rate for different type of coupons and then the marketing can be turned for those conditions. E.g. the chances of 'Bar' coupon to be accepted when a person is going to work is not high.
 
 
