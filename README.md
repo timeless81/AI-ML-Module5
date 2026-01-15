@@ -1,5 +1,7 @@
 # AI-ML-Module5
 
+# Link to the Jupyter Notebook - 
+https://github.com/timeless81/AI-ML-Module5/blob/main/coupon.ipynb
 
 # Based on the observations from the exercises given we can draw the following conclusions.
 1. Drivers who went to bar 4 times or more per month had a high chance (77%) of accepting the bar coupon regardless of other factors
